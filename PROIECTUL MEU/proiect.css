@@ -1,0 +1,91 @@
+body{
+	margin :20px;
+	background-color:#b3d1ff ;
+	display: block;
+}
+#butoane li{
+	margin:30px;
+	float:right;
+	background-size: 20px;
+	background-color:#ccddff;
+	font-size: 20px;
+	width: 10%;
+	display:inline-block;
+	padding: 15px;
+	border-right: 1px red;
+	cursor:pointer;
+
+}
+#butoane ul{
+	float: right;
+	list-style: none;
+	display:inline;
+    text-align: center;
+}
+
+#middle{
+	margin:20px;
+	padding:30px;
+	background-image:url("proiect.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	background-position:40% 20%; 
+	font-size: 40px;
+	
+}
+
+#specialid{
+	color:white;
+	font-size:40px;
+	text-align:center;
+	padding-top: 250px;
+	padding-bottom:3px;
+}
+#button{
+	width: 90%;
+	padding-left: 40px;
+	text-align:left;
+}
+#continut{
+	margin-top:10px;
+	background-color:#ccddff;
+	font-size: 25px;
+	display: table;
+	padding-right: 10px;
+}
+
+#sectiune.coloana{
+ float:left;
+  text-align:center;
+  width:28%;
+  padding-right:30px;
+ display: table;
+  background-color:;
+  padding: 40px;
+  height: 300px;
+  font-size: 25px;
+}
+
+footer{
+	border: 0px solid blue;
+	padding:30px;
+	padding-bottom: 10px;
+	background-color:#6666ff;
+	clear:both;
+}
+ul{
+	width: 60%;
+	margin:auto;
+	float:right;
+	overflow: hidden;
+	display: inline-block;
+}
+h2{
+	color:#cd9284;
+	font-size:30px;
+	font-style:italic;
+	padding-left: 90px;
+	text-align:left;
+
+}
